@@ -203,6 +203,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/white"
+        android:onClick="RegreasarMenu"
         android:text="Regresar"
         android:textColor="@color/design_default_color_error"
         android:textColorHighlight="@color/design_default_color_error"
