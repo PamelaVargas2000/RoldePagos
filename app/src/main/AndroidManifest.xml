@@ -13,6 +13,9 @@
         android:theme="@style/Theme.RoldePagos"
         tools:targetApi="31">
         <activity
+            android:name=".RolActivity"
+            android:exported="false" />
+        <activity
             android:name=".ReguistroActivity"
             android:exported="false" />
         <activity
